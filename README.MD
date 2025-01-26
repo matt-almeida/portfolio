@@ -55,9 +55,9 @@ www.mattalmeida.com.br
 
 ## 🤝 Conecte-se Comigo
 
-**GitHub**: matt-almeida
-**LinkedIn**: Matheus Almeida
-**Instagram**: @euocabeleira
+* **GitHub**: [matt-almeida](https://github.com/matt-almeida)
+* **LinkedIn**: [Matheus Almeida](https://www.linkedin.com/in/matheus-almeida-jesus/)
+* **Instagram**: [@euocabeleira](https://www.instagram.com/euocabeleira/)
 
 ## 📝 Licença
 Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo como referência ou inspiração.
